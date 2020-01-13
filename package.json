@@ -1,0 +1,27 @@
+{
+  "name": "blake-reactor-2",
+  "version": "1.0.0",
+  "description": "Practice repo for new tech we plan to use in MVP",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwang429/blake-reactor-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwang429/blake-reactor-2/issues"
+  },
+  "homepage": "https://github.com/kwang429/blake-reactor-2#readme",
+  "dependencies": {
+    "next": "^9.1.7",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
